@@ -1,2 +1,2 @@
 # Registration
-Simple registration of html
+Simple registration page 
